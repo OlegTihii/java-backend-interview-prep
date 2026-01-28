@@ -1,4 +1,4 @@
-baseURL: https://zhukovsd.github.io/java-backend-interview-prep/
+baseURL: https://OlegTihii.github.io/java-backend-interview-prep/
 title: IT Ментор | Java методичка
 languageCode: ru
 theme : hugo-book
@@ -8,7 +8,7 @@ params:
   BookTheme: 'auto'
   BookSection: '*'
   BookPortableLinks: true
-  BookRepo: 'https://github.com/zhukovsd/java-backend-interview-prep'
+  BookRepo: 'https://github.com/OlegTihii/java-backend-interview-prep'
   BookCommitPath: 'commit'
   BookEditPath: 'edit/master'
 
